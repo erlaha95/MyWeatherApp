@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+let API_KEY = "5718147478cbb61716bc954063835c37"
+let MAIN_URL = "http://api.openweathermap.org/data/2.5/"
+typealias DownloadComplete = () -> ()
